@@ -9,6 +9,7 @@ public class Test {
         int j = 1;
         int q = 5;
         int k = 2;
+        int l = 5;
     }
 
 }
