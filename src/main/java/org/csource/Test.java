@@ -3,6 +3,7 @@ package org.csource;
 public class Test {
     public void test11(){
         System.out.println();
+        int k = 3;
         int i = 1;
     }
     public void test3(){
