@@ -5,6 +5,7 @@ public class Test {
         int i = 1;
     }
     public void test3(){
+        int j = 1;
     }
 
 }
