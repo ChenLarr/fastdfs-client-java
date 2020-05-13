@@ -8,6 +8,7 @@ public class Test {
     public void test3(){
         System.out.println();
         int k = 3;
+        int j = 1;
     }
 
 }
