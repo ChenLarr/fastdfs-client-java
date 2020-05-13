@@ -9,6 +9,7 @@ public class Test {
         System.out.println();
         int k = 3;
         int j = 1;
+        int g = 2;
     }
 
 }
